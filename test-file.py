@@ -8,7 +8,6 @@ newTodayTime = todayTime.strftime("%H:%M")
 
 
 
-# My name is Priyanshu and today date is - 21/08/2023 16:58:24
 
 # Write the timestamp to a file
 with open('D:\Testing\output.txt', 'w') as f: #D:\Testing\output.txt is a file location 
